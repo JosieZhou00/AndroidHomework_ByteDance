@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="btn_change">更改文字</string>
+    <string name="tv1">Hello World!</string>
+    <string name="checkbox1">实验一 on 2021/07/12</string>
+    <string name="radiobutton1">不显示图片</string>
+    <string name="switch1">背景：白色/粉色</string>
+    <string name="iv1">小花</string>
+    <string name="iv2">背景颜色</string>
+</resources>
