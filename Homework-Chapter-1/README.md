@@ -67,6 +67,8 @@
 交互结果输出log：
 
 > 2021-07-12 17:35:35.551 10585-10585/com.bytedance.component.helloworld D/MainActivity: photo
+>
 > 2021-07-12 17:35:37.120 10585-10585/com.bytedance.component.helloworld D/MainActivity: background_change
+>
 > 2021-07-12 17:35:39.418 10585-10585/com.bytedance.component.helloworld D/MainActivity: World
 
