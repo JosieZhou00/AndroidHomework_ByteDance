@@ -11,9 +11,12 @@
 展示截图：
 
 <center class="half">
-<img src=".\pic\Screenshot_1626082495.png" width = "50%" alt="Screenshot_1626082495" align=left />
-<img src=".\pic\Screenshot_1626082543.png" width = "50%" alt="Screenshot_1626082543" align=right />
+<img src=".\pic\Screenshot_1626082495.png"  width="48%" alt="Screenshot_1626082495" align=left />
+<img src=".\pic\Screenshot_1626082543.png"  width="48%" alt="Screenshot_1626082543" align=right />
 </center>
+
+
+
 
 
 
