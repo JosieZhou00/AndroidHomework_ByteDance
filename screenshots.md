@@ -82,15 +82,17 @@
 
 ## Homework-chapter-2
 
+
+
 展示截图：
 
-<center>
-<figure>
+
+
+<p float="left">
 <img src=".\pic\Screenshot_1626167954.png"  width="32%" alt="Screenshot_1626167954"  />
 <img src=".\pic\Screenshot_1626167963.png"  width="32%" alt="Screenshot_1626167963"  /> 
 <img src=".\pic\Screenshot_1626167994.png"  width="32%" alt="Screenshot_1626167994"  />
-</figure>
-</center>
+</p>
 
 
 
