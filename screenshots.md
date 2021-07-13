@@ -84,10 +84,12 @@
 
 展示截图：
 
-<center class="third">
-<img src=".\pic\Screenshot_1626167954.png"  width="30%" alt="Screenshot_1626167954"  />
-<img src=".\pic\Screenshot_1626167963.png"  width="30%" alt="Screenshot_1626167963"  /> 
-<img src=".\pic\Screenshot_1626167994.png"  width="30%" alt="Screenshot_1626167994"  />
+<center>
+<figure>
+<img src=".\pic\Screenshot_1626167954.png"  width="32%" alt="Screenshot_1626167954"  />
+<img src=".\pic\Screenshot_1626167963.png"  width="32%" alt="Screenshot_1626167963"  /> 
+<img src=".\pic\Screenshot_1626167994.png"  width="32%" alt="Screenshot_1626167994"  />
+</figure>
 </center>
 
 
