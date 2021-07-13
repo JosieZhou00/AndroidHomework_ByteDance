@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="tv1">恭喜你在浙江大学成功度过了一天时间！</string>
+    <string name="tv2">2021-07-13  获得</string>
+    <string name="button">再过一天</string>
+    <string name="btn1">跳转至MyActivity</string>
+    <string name="btn2">跳转至百度页面</string>
+    <string name="btn3">跳转至电话拨号页面</string>
+    <string name="btn4">跳转至RecyclerActivity</string>
+    <string name="zero">男子</string>
+
+</resources>
