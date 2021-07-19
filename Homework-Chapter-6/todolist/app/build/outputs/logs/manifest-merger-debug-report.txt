@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\48db45fd746ad49b4274bfd94e93798c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\e44acb7f9c8e2ceb1c076e244812208a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\8d25a6850d1ae1d1a0133bc22393029c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6cf1e3b7cb7686b293951338a7f5d0e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\a84e431b16b23fca32d22e0f5f343957\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\2a3b658cd9a4f73e8f71f55fbb911c65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\e937b01f7c6f8fe06d4c6987fafd684d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\d931a4e7b22cb7f0113765d0083b797c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\905c00f446c74050ef323ff32dfcbe1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\f2bd1848b4bb1e8f127010558a18a420\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\42a5bf356149d63e8272d39cd71c3fff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\0bb0f675b0d48faae6e1931aee18d9dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\b22d9707beb5ef4133fbb6e930b9dff8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3d61c875c4f2fc09af7417bda2d3ab19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\176670e2cb2f4aeb8d5fce7d8c1927c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\f1b1efc2dde9826181177207fb444217\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e80943efc4dfa7ea5480503df4293bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\700ddf6f353d0a6da41a0e6f37398688\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\d87cc0af13fc18c55223564a42adad30\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\be069347390f305e6c82c6b4cf198b67\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\c4f81f0e0e5ee771abbac13056d27e79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\32bf1050d268daf0ff1f12d2b730b580\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3a701ae6cdd10eadc8b9be9111285d82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\e1822220d6a164cc449512d516e0134e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\a1059051aa985b16448b299b2ed3e927\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\cfc7a8b42a1fd96fedc82e925c8a4c54\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\23b6ff96b7c9193327360148d244fd93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\81499cd61b598d2a5ac8ee42e5fa5384\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\b70c30c85a329e3b1009cd02de7f3d9a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\2830933131f639caedcb145efeaf6a5c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\0ee8a06552b7683b490399be8e84b9ba\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\48db45fd746ad49b4274bfd94e93798c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\48db45fd746ad49b4274bfd94e93798c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\8d25a6850d1ae1d1a0133bc22393029c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\8d25a6850d1ae1d1a0133bc22393029c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\d87cc0af13fc18c55223564a42adad30\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\d87cc0af13fc18c55223564a42adad30\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\be069347390f305e6c82c6b4cf198b67\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\be069347390f305e6c82c6b4cf198b67\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\d87cc0af13fc18c55223564a42adad30\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.byted.camp.todolist.MainActivity
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.byted.camp.todolist.debug.DebugActivity
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:26:19-54
+activity#com.byted.camp.todolist.NoteActivity
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.byted.camp.todolist.debug.FileDemoActivity
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:28:19-57
+activity#com.byted.camp.todolist.debug.SpDemoActivity
+ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:29:9-58
+	android:name
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:29:19-55
+uses-sdk
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\48db45fd746ad49b4274bfd94e93798c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\48db45fd746ad49b4274bfd94e93798c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\e44acb7f9c8e2ceb1c076e244812208a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\e44acb7f9c8e2ceb1c076e244812208a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\8d25a6850d1ae1d1a0133bc22393029c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\8d25a6850d1ae1d1a0133bc22393029c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6cf1e3b7cb7686b293951338a7f5d0e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6cf1e3b7cb7686b293951338a7f5d0e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\a84e431b16b23fca32d22e0f5f343957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\a84e431b16b23fca32d22e0f5f343957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\2a3b658cd9a4f73e8f71f55fbb911c65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\2a3b658cd9a4f73e8f71f55fbb911c65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\e937b01f7c6f8fe06d4c6987fafd684d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\e937b01f7c6f8fe06d4c6987fafd684d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\d931a4e7b22cb7f0113765d0083b797c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\d931a4e7b22cb7f0113765d0083b797c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\905c00f446c74050ef323ff32dfcbe1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\905c00f446c74050ef323ff32dfcbe1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\f2bd1848b4bb1e8f127010558a18a420\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\f2bd1848b4bb1e8f127010558a18a420\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\42a5bf356149d63e8272d39cd71c3fff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\42a5bf356149d63e8272d39cd71c3fff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\0bb0f675b0d48faae6e1931aee18d9dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\0bb0f675b0d48faae6e1931aee18d9dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\b22d9707beb5ef4133fbb6e930b9dff8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\b22d9707beb5ef4133fbb6e930b9dff8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3d61c875c4f2fc09af7417bda2d3ab19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3d61c875c4f2fc09af7417bda2d3ab19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\176670e2cb2f4aeb8d5fce7d8c1927c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\176670e2cb2f4aeb8d5fce7d8c1927c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\f1b1efc2dde9826181177207fb444217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\f1b1efc2dde9826181177207fb444217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e80943efc4dfa7ea5480503df4293bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e80943efc4dfa7ea5480503df4293bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\700ddf6f353d0a6da41a0e6f37398688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\700ddf6f353d0a6da41a0e6f37398688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\d87cc0af13fc18c55223564a42adad30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\d87cc0af13fc18c55223564a42adad30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\be069347390f305e6c82c6b4cf198b67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\be069347390f305e6c82c6b4cf198b67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\c4f81f0e0e5ee771abbac13056d27e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\c4f81f0e0e5ee771abbac13056d27e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\32bf1050d268daf0ff1f12d2b730b580\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\32bf1050d268daf0ff1f12d2b730b580\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3a701ae6cdd10eadc8b9be9111285d82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3a701ae6cdd10eadc8b9be9111285d82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\e1822220d6a164cc449512d516e0134e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\e1822220d6a164cc449512d516e0134e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\a1059051aa985b16448b299b2ed3e927\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\a1059051aa985b16448b299b2ed3e927\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\cfc7a8b42a1fd96fedc82e925c8a4c54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\cfc7a8b42a1fd96fedc82e925c8a4c54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\23b6ff96b7c9193327360148d244fd93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\23b6ff96b7c9193327360148d244fd93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\81499cd61b598d2a5ac8ee42e5fa5384\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\81499cd61b598d2a5ac8ee42e5fa5384\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\b70c30c85a329e3b1009cd02de7f3d9a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\b70c30c85a329e3b1009cd02de7f3d9a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\2830933131f639caedcb145efeaf6a5c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\2830933131f639caedcb145efeaf6a5c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\0ee8a06552b7683b490399be8e84b9ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\0ee8a06552b7683b490399be8e84b9ba\AndroidManifest.xml:20:5-44
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\DELL\Documents\GitHub\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
