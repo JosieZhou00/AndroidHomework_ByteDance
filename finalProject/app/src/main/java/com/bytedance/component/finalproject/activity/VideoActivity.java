@@ -37,6 +37,7 @@ public class VideoActivity extends AppCompatActivity {
         mPlayer = new SimpleExoPlayer.Builder(this).build();
         playerView.setPlayer(mPlayer);
 
+
         if (getIntent().getStringExtra("videoUri") != null) {
             mVideoUri = Uri.parse(getIntent().getStringExtra("videoUri"));
             playVideo(mVideoUri);
