@@ -25,6 +25,7 @@ import com.google.android.material.button.MaterialButton;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.io.InputStream;
 
 import okhttp3.MediaType;
 import okhttp3.MultipartBody;
@@ -38,7 +39,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ChooseCoverActivity extends AppCompatActivity {
 
     private ImageView mImageView;
-    private final static String TAG = "CoverChooseActivity";
+    private final static String TAG = "ChooseCoverActivity";
     private Uri mVideoUri;
     Bitmap mCoverBmp;
     private IApi api;
@@ -128,13 +129,16 @@ public class ChooseCoverActivity extends AppCompatActivity {
         ByteArrayOutputStream stream = new ByteArrayOutputStream();
         mCoverBmp.compress(Bitmap.CompressFormat.PNG, 100, stream);
         byte[] coverImageData = stream.toByteArray();
+//        String videoPath = mVideoUri.getPath();
+
         RequestBody requestImage = RequestBody.create(MediaType.parse("multipart/form-data"), coverImageData);
         MultipartBody.Part coverImage = MultipartBody.Part.createFormData("cover_image", "cover.png", requestImage);
 
         RequestBody requestVideo = RequestBody.create(MediaType.parse("multipart/form-data"), mVideoUri.toString());
+//        RequestBody requestVideo = RequestBody.create(MediaType.parse("multipart/form-data"), videoPath);
         MultipartBody.Part video = MultipartBody.Part.createFormData("video", "video.mp4", requestVideo);
 
-        Call<UploadResponse> resp = api.submitVideo(Constants.STUDENT_ID, Constants.USER_NAME, "", coverImage, video);
+        Call<UploadResponse> resp = api.submitVideo(Constants.STUDENT_ID, Constants.USER_NAME, "", coverImage, video,Constants.TOKEN);
 
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_NOT_TOUCHABLE,
                 WindowManager.LayoutParams.FLAG_NOT_TOUCHABLE);

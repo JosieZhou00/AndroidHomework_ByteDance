@@ -19,7 +19,8 @@ public interface IApi {
                                      @Query("user_name") String userName,
                                      @Query("extra_value") String extraValue,
                                      @Part MultipartBody.Part coverImage,
-                                     @Part MultipartBody.Part video);
+                                     @Part MultipartBody.Part video,
+                                     @Query ("token") String token);
 
 
     @GET("video")
